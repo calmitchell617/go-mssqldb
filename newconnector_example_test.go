@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"strconv"
 
-	mssql "github.com/denisenkom/go-mssqldb"
+	mssql "github.com/calmitchell617/go-mssqldb"
 )
 
 var (

@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	mssql "github.com/denisenkom/go-mssqldb"
+	mssql "github.com/calmitchell617/go-mssqldb"
 	"github.com/golang-sql/civil"
 )
 

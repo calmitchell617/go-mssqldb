@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"log"
 
-	mssql "github.com/denisenkom/go-mssqldb"
+	mssql "github.com/calmitchell617/go-mssqldb"
 	"github.com/golang-sql/sqlexp"
 )
 
